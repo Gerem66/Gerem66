@@ -16,7 +16,7 @@
 | `Software` | Finished | [Data Snake](https://github.com/Gerem66/Data_Snake "Data management software for reptiles (win/linux)") | 22/08/16 | 16/06/20 | 1 year | |
 | `Software` | Finished | [Files Locker](https://github.com/Gerem66/Files-Locker "Data encryption software (win/linux)") | 08/10/17 | 17/03/19 | 1 year | |
 | `Software` | Finished | [Sudoku](https://github.com/Gerem66/Sudoku "Sudoku solver") | 21/01/17 | 22/01/17 | 1 day | |
-| `Python` | Paused | [PythonADB](https://github.com/Gerem66/PythonADB) | | | | |
+| `Python` | Paused | [PythonADB](https://github.com/Gerem66/PythonADB) | 25/12/20 | --/--/-- | | [@AphroMad](https://github.com/AphroMad) |
 | `Python` | Finished | [MailINSA](https://github.com/Gerem66/MailINSA "Mail reading + filter") | 30/06/19 | 30/06/19 | 1 day | |
 | `Guide` | Finished | [Arch Installation](https://github.com/Gerem66/InstallArch) | 23/07/20 | 23/07/20 | 1 day | |
 <!-- | | | | | | | | -->

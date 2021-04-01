@@ -18,5 +18,8 @@
 | `Python` | *Daily* Dropped | [Handwriting Reader](https://github.com/Gerem66/Handwriting_Reader) | 27/04/19 | --/--/-- | | |
 | `Software` | Dropped | [Time Schedule](https://github.com/Gerem66/EmploiDuTemps) | 17/11/20 | --/--/-- | | |
 | `Python` | Dropped | [Chatbot](https://github.com/Gerem66/Chatbot) | 20/01/19 | --/--/-- | | |
-| `Guide` | Finished | [Arch Installation](https://github.com/Gerem66/InstallArch) | 23/07/20 | 23/07/20 | 1 day | |
 <!-- | | | | | | | | -->
+
+## Guides
+* https://github.com/Gerem66/GitCommands
+* [Git commands](https://github.com/Gerem66/GitCommands)

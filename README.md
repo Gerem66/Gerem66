@@ -21,5 +21,5 @@
 <!-- | | | | | | | | -->
 
 ## Guides
-* https://github.com/Gerem66/GitCommands
+* [Arch installation](https://github.com/Gerem66/InstallArch)
 * [Git commands](https://github.com/Gerem66/GitCommands)

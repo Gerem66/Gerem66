@@ -3,7 +3,7 @@
 ## Projects
 
 | Type | Status | Project link | Date start | Date End | Duration | Collaborator(s) |
-|------|:------:|--------------|------------|----------|----------|-----------------|
+|------|:------:|--------------|------------|:--------:|:--------:|:---------------:|
 | `Application` | Current | [NotesApp](https://github.com/Gerem66/NotesApp) | 21/02/21 | --/--/-- | | [@AphroMad](https://github.com/AphroMad) |
 | `Application` | Not started | [EisenhowApp](https://github.com/Gerem66/EisenhowApp) | | | | [@AphroMad](https://github.com/AphroMad) |
 | `Python` | Paused | [PythonADB](https://github.com/Gerem66/PythonADB) | 25/12/20 | --/--/-- | | [@AphroMad](https://github.com/AphroMad) |

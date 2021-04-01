@@ -11,7 +11,14 @@
 | `Python` | *Daily* Dropped | [Handwriting Reader](https://github.com/Gerem66/Handwriting_Reader) | 27/04/19 | | | |
 | `Python` | *Daily* Finished | [MusicFinder](https://github.com/Gerem66/MusicFinder "Find musics on YouTube video/playlist") | 29/03/21 | 30/03/21 | 2 days | |
 | `Python` | *Daily* Finished | [The game of life](https://github.com/Gerem66/Jeu_de_la_Vie "Conway's game of life") | 22/04/19 | 13/05/19 | 5 days | |
-| | | | | | | |
+| `Software` | Dropped | [Time Schedule](https://github.com/Gerem66/EmploiDuTemps) | 17/11/20 | --/--/-- | | |
+| `Python` | Dropped | [Chatbot](https://github.com/Gerem66/Chatbot) | 20/01/19 | --/--/-- | | |
+| `Software` | Finished | [Data Snake](https://github.com/Gerem66/Data_Snake "Data management software for reptiles (win/linux)") | | | | |
+| `Software` | Finished | [Files Locker](https://github.com/Gerem66/Files-Locker "Data encryption software (win/linux)") | | | | |
+| `Software` | Finished | [Sudoku](https://github.com/Gerem66/Sudoku "Sudoku solver") | | | | |
+| `Python` | Paused | [PythonADB](https://github.com/Gerem66/PythonADB) | | | | |
+| `Python` | Finished | [MailINSA](https://github.com/Gerem66/MailINSA "Mail reading + filter") | | | | |
+<!-- | | | | | | | | -->
 
 ## Project2
 ### Current projects

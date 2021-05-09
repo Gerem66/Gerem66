@@ -4,8 +4,8 @@
 
 | Type | Status | Project link | Date start | Date End | Duration | Collaborator(s) |
 |------|:------:|--------------|------------|:--------:|:--------:|:---------------:|
-| `Application` | Current | [NotesApp](https://github.com/Gerem66/NotesApp) | 21/02/21 | --/--/-- | | [@AphroMad](https://github.com/AphroMad) |
-| `Application` | Not started | [EisenhowApp](https://github.com/Gerem66/EisenhowApp) | | | | [@AphroMad](https://github.com/AphroMad) |
+| `Application` | Started | [EisenhowApp](https://github.com/Gerem66/EisenhowApp) | 06/05/21 | | | [@AphroMad](https://github.com/AphroMad) |
+| `Application` | Paused | [NotesApp](https://github.com/Gerem66/NotesApp) | 21/02/21 | --/--/-- | | [@AphroMad](https://github.com/AphroMad) |
 | `Python` | Paused | [PythonADB](https://github.com/Gerem66/PythonADB) | 25/12/20 | --/--/-- | | [@AphroMad](https://github.com/AphroMad) |
 | `Embedded` | Paused | [Drone](https://github.com/Gerem66/Entreprise1) | 24/11/20 | --/--/-- | | | |
 | `Gnome Extension` *Daily* | Current | [Shazam Gnome Extension](https://github.com/Gerem66/Shazam "Extension for Gnome 3.8") | 31/03/21 | 06/04/21 | 3 day | |

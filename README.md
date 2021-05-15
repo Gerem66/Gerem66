@@ -5,6 +5,7 @@
 | Type | Status | Project link | Date start | Date End | Duration | Collaborator(s) |
 |------|:------:|--------------|------------|:--------:|:--------:|:---------------:|
 | `Application` | Started | [EisenhowApp](https://github.com/Gerem66/EisenhowApp) | 06/05/21 | | | [@AphroMad](https://github.com/AphroMad) |
+| `Python` | Finished | [SudokuSolver](https://github.com/Gerem66/SudokuSolver) | 01/05/21 | 02/05/21 | 2 days | |
 | `Application` | Paused | [NotesApp](https://github.com/Gerem66/NotesApp) | 21/02/21 | --/--/-- | | [@AphroMad](https://github.com/AphroMad) |
 | `Python` | Paused | [PythonADB](https://github.com/Gerem66/PythonADB) | 25/12/20 | --/--/-- | | [@AphroMad](https://github.com/AphroMad) |
 | `Embedded` | Paused | [Drone](https://github.com/Gerem66/Entreprise1) | 24/11/20 | --/--/-- | | | |

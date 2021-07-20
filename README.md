@@ -4,6 +4,7 @@
 
 | Type | Status | Project link | Date start | Date End | Duration | Collaborator(s) |
 |------|:------:|--------------|------------|:--------:|:--------:|:---------------:|
+| `Website` | Finished | [Portfolio](https://github.com/Gerem66/Portfolio) | --/--/-- | --/--/-- | | | |
 | `Application` | Started | [Organiz'App](https://github.com/Gerem66/Organizapp) | 06/05/21 | | | [@AphroMad](https://github.com/AphroMad) |
 | `Python` | Finished | [SudokuSolver](https://github.com/Gerem66/SudokuSolver) | 01/05/21 | 02/05/21 | 2 days | |
 | `Application` | Paused | [NotesApp](https://github.com/Gerem66/NotesApp) | 21/02/21 | --/--/-- | | [@AphroMad](https://github.com/AphroMad) |

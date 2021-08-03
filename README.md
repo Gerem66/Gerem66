@@ -4,9 +4,10 @@
 
 | Type | Status | Project link | Date start | Date End | Duration | Collaborator(s) |
 |------|:------:|--------------|------------|:--------:|:--------:|:---------------:|
+| `Application` | Started | [Game Life](https://github.com/Gerem66/GameLife) | 31/07/21 | | | [@AphroMad](https://github.com/AphroMad) |
 | `Website` | In progress | [Oxy](https://github.com/Gerem66/Oxy) | 02/07/21 | --/--/-- | | | |
 | `Website` | Finished | [Portfolio](https://github.com/Gerem66/Portfolio) | --/--/-- | --/--/-- | | | |
-| `Application` | Started | [Organiz'App](https://github.com/Gerem66/Organizapp) | 06/05/21 | | | [@AphroMad](https://github.com/AphroMad) |
+| `Application` | Finished | [Organiz'App](https://github.com/Gerem66/Organizapp) | 06/05/21 | | | [@AphroMad](https://github.com/AphroMad) |
 | `Python` | Finished | [SudokuSolver](https://github.com/Gerem66/SudokuSolver) | 01/05/21 | 02/05/21 | 2 days | |
 | `Application` | Paused | [NotesApp](https://github.com/Gerem66/NotesApp) | 21/02/21 | --/--/-- | | [@AphroMad](https://github.com/AphroMad) |
 | `Python` | Paused | [PythonADB](https://github.com/Gerem66/PythonADB) | 25/12/20 | --/--/-- | | [@AphroMad](https://github.com/AphroMad) |

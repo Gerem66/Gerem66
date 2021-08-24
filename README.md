@@ -4,6 +4,7 @@
 
 | Type | Status | Project link | Date start | Date End | Duration | Collaborator(s) |
 |------|:------:|--------------|------------|:--------:|:--------:|:---------------:|
+| `Application` | Finished | [BlablaTime](https://github.com/Gerem66/BlablaTime) | 24/08/21 | 24/08/21 | 8 hours | [@AphroMad](https://github.com/AphroMad) |
 | `Application` | Started | [Game Life](https://github.com/Gerem66/GameLife) | 31/07/21 | | | [@AphroMad](https://github.com/AphroMad) |
 | `Website` | In progress | [Oxy](https://github.com/Gerem66/Oxy) | 02/07/21 | --/--/-- | | | |
 | `Website` | Finished | [Portfolio](https://github.com/Gerem66/Portfolio) | --/--/-- | --/--/-- | | | |

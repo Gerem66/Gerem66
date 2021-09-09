@@ -4,6 +4,7 @@
 
 | Type | Status | Project link | Date start | Date End | Duration | Collaborator(s) |
 |------|:------:|--------------|------------|:--------:|:--------:|:---------------:|
+| `Python` | Finished | [SpaceshipPuzzleSolver](https://github.com/Gerem66/SpaceshipPuzzleSolver) | 08/09/21 | 09/09/21 | 1 day | |
 | `Application` | Finished | [BlablaTime](https://github.com/Gerem66/BlablaTime) | 24/08/21 | 24/08/21 | 8 hours | [@AphroMad](https://github.com/AphroMad) |
 | `Application` | Started | [Game Life](https://github.com/Gerem66/GameLife) | 31/07/21 | | | [@AphroMad](https://github.com/AphroMad) |
 | `Website` | In progress | [Oxy](https://github.com/Gerem66/Oxy) | 02/07/21 | --/--/-- | | | |

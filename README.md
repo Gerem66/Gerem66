@@ -4,6 +4,8 @@
 
 | Type | Status | Project link | Date start | Date End | Duration | Collaborator(s) |
 |------|:------:|--------------|------------|:--------:|:--------:|:---------------:|
+| `JS` | In progress | [GameLife Discord Bot](https://github.com/Gerem66/GLBot) | 27/10/21 | --/--/-- | |
+| `Python` | Finished | [Generateur De Noms](https://github.com/Gerem66/GenerateurDeNoms) | 01/11/21 | 01/11/21 | 2 hours | |
 | `Python` | Finished | [SpaceshipPuzzleSolver](https://github.com/Gerem66/SpaceshipPuzzleSolver) | 08/09/21 | 09/09/21 | 1 day | |
 | `Application` | Finished | [BlablaTime](https://github.com/Gerem66/BlablaTime) | 24/08/21 | 24/08/21 | 8 hours | [@AphroMad](https://github.com/AphroMad) |
 | `Application` | Started | [Game Life](https://github.com/Gerem66/GameLife) | 31/07/21 | | | [@AphroMad](https://github.com/AphroMad) |

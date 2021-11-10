@@ -31,4 +31,4 @@
 ## Guides
 * [Arch installation](https://github.com/Gerem66/InstallArch)
 * [Git commands](https://github.com/Gerem66/GitCommands)
-* [(new) Server Commands](https://github.com/Gerem66/ServerCommands)
+* [Server Commands](https://github.com/Gerem66/ServerCommands)

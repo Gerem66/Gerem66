@@ -10,7 +10,7 @@
 | `Application` | Finished | [BlablaTime](https://github.com/Gerem66/BlablaTime) | 24/08/21 | 24/08/21 | 8 hours | [@AphroMad](https://github.com/AphroMad) |
 | `Application` | Started | [Game Life](https://github.com/Gerem66/GameLife) | 31/07/21 | | | [@AphroMad](https://github.com/AphroMad) |
 | `Website` | In progress | [Oxy](https://github.com/Gerem66/Oxy) | 02/07/21 | --/--/-- | | | |
-| `Website` | Finished | [Portfolio](https://github.com/Gerem66/Portfolio) | --/--/-- | --/--/-- | | | |
+| `Website` | Finished | [Portfolio](https://github.com/Gerem66/Projects) | --/--/-- | --/--/-- | | | |
 | `Application` | Finished | [Organiz'App](https://github.com/Gerem66/Organizapp) | 06/05/21 | 02/08/21 | 1 month | [@AphroMad](https://github.com/AphroMad) |
 | `Python` | Finished | [SudokuSolver](https://github.com/Gerem66/SudokuSolver) | 01/05/21 | 02/05/21 | 2 days | |
 | `Application` | Paused | [NotesApp](https://github.com/Gerem66/NotesApp) | 21/02/21 | --/--/-- | | [@AphroMad](https://github.com/AphroMad) |

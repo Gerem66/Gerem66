@@ -32,3 +32,4 @@
 * [Arch installation](https://github.com/Gerem66/InstallArch)
 * [Git commands](https://github.com/Gerem66/GitCommands)
 * [Server Commands](https://github.com/Gerem66/ServerCommands)
+* [C memo](https://github.com/Gerem66/C)

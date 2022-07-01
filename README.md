@@ -30,6 +30,7 @@
 <!-- | | | | | | | | -->
 
 ## Guides
+* [React Native Installer](https://github.com/Gerem66/RN-Installer)
 * [Arch installation](https://github.com/Gerem66/InstallArch)
 * [Git commands](https://github.com/Gerem66/GitCommands)
 * [Server Commands](https://github.com/Gerem66/ServerCommands)

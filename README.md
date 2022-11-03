@@ -4,6 +4,7 @@
 
 | Type | Status | Project link | Date start | Date End | Duration | Collaborator(s) |
 |------|:------:|--------------|------------|:--------:|:--------:|:---------------:|
+| `Bash` | Finished | [MyBashPackages](https://github.com/Gerem66/MyBashPackages) | --/--/-- | --/--/-- | | |
 | `Website` | Finished | [GHost](https://github.com/Gerem66/GHost) | 10/07/21 | 17/07/21 | 1 week | |
 | `JS` | In progress | [GameLife Discord Bot](https://github.com/Gerem66/GLBot) | 27/10/21 | --/--/-- | |
 | `Python` | Finished | [Generateur De Noms](https://github.com/Gerem66/GenerateurDeNoms) | 01/11/21 | 01/11/21 | 2 hours | |

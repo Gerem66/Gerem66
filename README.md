@@ -7,7 +7,7 @@
 | `Lib` | Finished | [SQL](https://github.com/Gerem66/PHP-SQL) | --/--/-- | --/--/-- | | |
 | `Website` | In progress | [LyricsLive](https://github.com/Gerem66/LyricsLive) | 01/08/20 | --/--/-- | | |
 | `Lib` | In progress | [LyricalMind](https://github.com/Gerem66/LyricalMind) | --/--/-- | --/--/-- | | |
-| `Website` | In progress | [MaxTrack](https://github.com/MetaCortexCo/MaxTrack) | 01/12/22 | --/--/-- | | [Ethan](https://github.com/EthanPasquier) |
+| `Website` | In progress | [MaxTrack](https://github.com/MetaCortexCo/MaxTrack) | 01/12/22 | --/--/-- | | [@Ethan](https://github.com/EthanPasquier) |
 | `Bash` | Finished | [MyBashPackages](https://github.com/Gerem66/MyBashPackages) | --/--/-- | --/--/-- | | |
 | `Website` | Finished | [GHost](https://github.com/Gerem66/GHost) | 10/07/21 | 17/07/21 | 1 week | |
 | `JS` | In progress | [GameLife Discord Bot](https://github.com/Gerem66/GLBot) | 27/10/21 | --/--/-- | |

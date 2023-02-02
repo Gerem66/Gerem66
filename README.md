@@ -4,6 +4,7 @@
 
 | Type | Status | Project link | Date start | Date End | Duration | Collaborator(s) |
 |------|:------:|--------------|------------|:--------:|:--------:|:---------------:|
+| `Lib` | Finished | [SpotifyAPI](https://github.com/Gerem66/SpotifyAPI) | --/--/-- | --/--/-- | | |
 | `Lib` | Finished | [SQL](https://github.com/Gerem66/PHP-SQL) | --/--/-- | --/--/-- | | |
 | `Website` | In progress | [LyricsLive](https://github.com/Gerem66/LyricsLive) | 01/08/20 | --/--/-- | | |
 | `Lib` | In progress | [LyricalMind](https://github.com/Gerem66/LyricalMind) | --/--/-- | --/--/-- | | |
@@ -36,6 +37,7 @@
 
 ## MyLibs - PHP
 * [SQL](https://github.com/Gerem66/PHP-SQL)
+* [SpotifyAPI](https://github.com/Gerem66/SpotifyAPI)
 * [LyricalMind](https://github.com/Gerem66/LyricalMind)
 
 ## Guides

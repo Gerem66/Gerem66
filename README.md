@@ -4,6 +4,7 @@
 
 | Type | Status | Project link | Date start | Date End | Duration | Collaborator(s) |
 |------|:------:|--------------|------------|:--------:|:--------:|:---------------:|
+| `Bot` | In progress | [Sentinel](https://github.com/Gerem66/Sentinel) | 17/04/23 | --/--/-- | | |
 | `Lib` | Finished | [SpotifyAPI](https://github.com/Gerem66/SpotifyAPI) | --/--/-- | --/--/-- | | |
 | `Lib` | Finished | [SQL](https://github.com/Gerem66/PHP-SQL) | --/--/-- | --/--/-- | | |
 | `Website` | In progress | [LyricsLive](https://github.com/Gerem66/LyricsLive) | 01/08/20 | --/--/-- | | |

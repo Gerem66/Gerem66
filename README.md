@@ -4,6 +4,7 @@
 
 | Type | Status | Project link | Date start | Date End | Duration | Collaborator(s) |
 |------|:------:|--------------|------------|:--------:|:--------:|:---------------:|
+| `Windows App` | In progress | [Cleanify](https://github.com/Gerem66/Cleanify) | 19/05/23 | --/--/-- | | |
 | `Bot` | In progress | [Sentinel](https://github.com/Gerem66/Sentinel) | 17/04/23 | --/--/-- | | |
 | `Lib` | Finished | [SpotifyAPI](https://github.com/Gerem66/SpotifyAPI) | --/--/-- | --/--/-- | | |
 | `Lib` | Finished | [SQL](https://github.com/Gerem66/PHP-SQL) | --/--/-- | --/--/-- | | |

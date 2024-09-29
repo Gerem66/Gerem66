@@ -1,0 +1,58 @@
+name: Update Github Readme Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Each week on Sunday at 00:00
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install librsvg (rsvg-convert)
+        run: sudo apt-get install librsvg2-bin -y
+
+      - name: Clone Github Readme Stats
+        run: git clone https://github.com/anuraghazra/github-readme-stats.git
+
+      - name: Install dependencies
+        working-directory: ./github-readme-stats
+        run: |
+          npm install
+          npm install express dotenv
+
+      - name: Start the server
+        working-directory: ./github-readme-stats
+        env:
+          PAT_1: ${{ secrets.GH_TOKEN }}
+        run: |
+          nohup node express.js &
+
+      - name: Wait for server to start
+        run: sleep 5
+
+      - name: Fetch SVGs
+        run: |
+          mkdir -p ./github-stats/output
+          curl "http://localhost:9000/?username=Gerem66&theme=blueberry&show_star=false" -o ./github-stats/output/github-stats.svg
+          curl "http://localhost:9000/top-langs/?username=Gerem66&theme=blueberry&show_star=false&layout=compact" -o ./github-stats/output/github-languages.svg
+
+      - name: Configure Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Commit and push
+        run: |
+          git add ./github-stats/
+          git commit -m "Add updated SVG of GitHub Readme Stats"
+          git push

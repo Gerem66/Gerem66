@@ -43,8 +43,15 @@ jobs:
       - name: Fetch SVGs
         run: |
           mkdir -p ./github-stats/output
-          curl "http://localhost:9000/?username=Gerem66&theme=blueberry&show_star=false" -o ./github-stats/output/github-stats.svg
-          curl "http://localhost:9000/top-langs/?username=Gerem66&theme=blueberry&show_star=false&layout=compact" -o ./github-stats/output/github-languages.svg
+          BASE="http://localhost:9000"
+
+          # Carte Stats (dépôts privés + organisations)
+          curl "$BASE/?username=Gerem66&theme=blueberry&count_private=true&include_orgs=true&show_icons=true" \
+            -o ./github-stats/output/github-stats.svg
+
+          # Carte Top Langages (layout compact, organisations incluses)
+          curl "$BASE/top-langs?username=Gerem66&theme=blueberry&layout=compact&include_orgs=true" \
+            -o ./github-stats/output/github-languages.svg
 
       - name: Configure Git
         run: |
@@ -54,5 +61,5 @@ jobs:
       - name: Commit and push
         run: |
           git add ./github-stats/
-          git commit -m "Add updated SVG of GitHub Readme Stats"
+          git commit -m "Add updated SVG of GitHub Readme Stats" || echo "Nothing to commit"
           git push

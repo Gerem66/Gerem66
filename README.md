@@ -36,8 +36,8 @@ Toujours partant pour de nouveaux projets, surtout s’ils résolvent de vrais p
       </a>
       <sub>
         <p></p>
-        <p></p>
-        <p>Initiation au code</p>
+        <p>Initiation au</p>
+        <p>développement</p>
       </sub>
     </td>
     <td align="center">

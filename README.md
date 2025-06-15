@@ -22,7 +22,7 @@ Toujours partant pour de nouveaux projets, surtout s’ils résolvent de vrais p
   <tr>
     <td align="center">
       <a href="https://github.com/OxyFoo/GameLife">
-        <img src="https://github.com/OxyFoo/GameLife/blob/prod/res/logo/GameLife.png" alt="GameLife" width="64" />
+        <img src="./assets/GameLife.png" alt="GameLife" width="64" />
       </a>
       <sub>
         <p></p>
@@ -32,7 +32,7 @@ Toujours partant pour de nouveaux projets, surtout s’ils résolvent de vrais p
     </td>
     <td align="center">
       <a href="https://github.com/OxyFoo/Code-Life">
-        <img src="https://github.com/OxyFoo/Code-Life/blob/main/assets/images/icon.png" alt="CodeLife" width="64" />
+        <img src="./assets/codelife.png" alt="CodeLife" width="64" />
       </a>
       <sub>
         <p></p>
@@ -42,7 +42,7 @@ Toujours partant pour de nouveaux projets, surtout s’ils résolvent de vrais p
     </td>
     <td align="center">
       <a href="https://github.com/Gerem66/OrganizApp">
-        <img src="https://github.com/Gerem66/OrganizApp/blob/master/android/ressources/Logos/square.png" alt="OrganizApp" width="64" />
+        <img src="./assets/OrganizApp.png" alt="OrganizApp" width="64" />
       </a>
       <sub>
         <p></p>

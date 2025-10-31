@@ -70,8 +70,8 @@ Toujours partant pour de nouveaux projets, surtout s’ils résolvent de vrais p
 <br>
 <h2 align="center">📊 Statistiques</h2>
 
-<a href=""><img src="https://github.com/Gerem66/Gerem66/blob/main/github-stats/output/github-stats.svg" height="200" alt="github-stats" /></a>
-<a href=""><img src="https://github.com/Gerem66/Gerem66/blob/main/github-stats/output/github-languages.svg" height="200" alt="github-languages" /></a>
+<a href=""><img src="https://github.com/Gerem66/Gerem66/blob/main/github-stats/output/github-stats.svg" height="165" alt="github-stats" /></a>
+<a href=""><img src="https://github.com/Gerem66/Gerem66/blob/main/github-stats/output/github-languages.svg" height="165" alt="github-languages" /></a>
 
 <br>
 <h2 align="center">📫 Contact</h2>

@@ -43,7 +43,7 @@ jobs:
       - name: Fetch SVGs
         run: |
           mkdir -p ./github-stats/output
-          BASE="http://localhost:9000"
+          BASE="http://localhost:9000/api"
 
           # Carte Stats (dépôts privés + organisations)
           curl "$BASE/?username=Gerem66&theme=blueberry&count_private=true&include_orgs=true&show_icons=true" \
